@@ -4,39 +4,41 @@ Content:
 
 1. Basic Concepts:
    
-    Reading image and video
+       Reading image and video
    
-    Resizing and Rescaling
+       Resizing and Rescaling
    
-    Image Transformation
+       Image Transformation
    
-    Contour Detection
-   
-    Converting Images
+       Contour Detection
+      
+       Converting Images
 
-3. Advanced Concepts:
-   
-    Color Spacing
-   
-    Splitting and merging Color Channels
-   
-    Blurring
-   
-    BITWISE operation
-   
-    Masking
 
-    Histogram
+2. Advanced Concepts:
    
-    Thresholding Image
+       Color Spacing
+   
+       Splitting and merging Color Channels
+   
+       Blurring
+   
+       BITWISE operation
+   
+       Masking
 
-    Gradient
+       Histogram
+   
+       Thresholding Image
 
-5. Face Detection and Recognition
+       Gradient
 
-    Face Detection using Haar Cascades
 
-    Face Recognition using OpenCV's LBPHFaceRecognizer algorithm
+3. Face Detection and Recognition
+
+       Face Detection using Haar Cascades
+
+       Face Recognition using OpenCV's LBPHFaceRecognizer algorithm
 
 
 Credits 
